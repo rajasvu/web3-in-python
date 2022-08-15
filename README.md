@@ -1,2 +1,3 @@
-# web3-in-python
-Repo to demonstrate my learnings on web3 with python
+## Purpose
+
+This branch is used for branching to get python environment for project development
